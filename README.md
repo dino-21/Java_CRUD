@@ -29,7 +29,7 @@
 
 
 
-## 메서드쓰고 이름위에 마우스 올리면 메서드 만들어주는 기능이 있음##
+## 메서드쓰고 이름위에 마우스 올리면 메서드 만들어주는 기능이 있음 ##
 ![13](https://github.com/user-attachments/assets/abbdf4af-2df3-451b-b731-4facfc20affe)
 
 
