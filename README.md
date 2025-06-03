@@ -22,7 +22,7 @@
 
 
 
-## Getter/setter 만들어짐##
+## Getter/setter, toString, Constructor 만들어짐 ##
 ![12](https://github.com/user-attachments/assets/36e5d6cf-6936-4962-a6b4-baa24cd1c32c)
 
 
